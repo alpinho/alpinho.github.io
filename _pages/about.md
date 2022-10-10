@@ -2,14 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.diedrichsenlab.org/'>Diedrichsenlab</a> and <a href='https://http://www.jessicagrahn.com/'> The Music and Neuroscience Lab</a>.
 
 profile:
   align: right
-  image: img/prof_pic.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Brain and Mind Institute, office 4130, Western Interdisciplinary Research Building</p>
+    <p>BMI, office #4130</p>
+    <p>WIRB</p>
     <p>Western University, Dock #76, 1151 Richmond St N</p>
     <p>London, Ontario N6A 3K7, Canada</p>
 
