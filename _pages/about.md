@@ -11,7 +11,7 @@ profile:
   address: >
     <p>BMI-WIRB, office #4130</p>
     <p>Western University</p>
-    <p>Dock #76, 1151 Richmond St N</p>
+    <p>Dock#76, 1151 Richmond St N</p>
     <p>London, Ontario</p>
     <p>N6A 3K7, Canada</p>
 
@@ -20,8 +20,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<p></p>
-<p>I am a Cognitive Neuroscientist with a background in Engineering Physics. My research focuses on the application of functional Magnetic Resonance Imaging (fMRI) and statistical techniques to map the neural mechanisms in the human brain involved in cognition.</p>
+<pre>
+
+
+I am a Cognitive Neuroscientist with a background in Engineering Physics. My research focuses on the application of functional Magnetic Resonance Imaging (fMRI) and statistical techniques to map the neural mechanisms in the human brain involved in cognition.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
