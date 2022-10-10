@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Ana Luísa
-middle_name: G.
+middle_name:
 last_name: Pinho
 email: agrilopi@uwo.ca
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -41,7 +41,7 @@ repo_theme_dark: dark           # https://github.com/anuraghazra/github-readme-s
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+# rss_icon: true
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -70,10 +70,10 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: alpinho # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: ALuisaPinho # your Twitter handle
-linkedin_username: # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
+linkedin_username: analuisapinho # your LinkedIn user name
+scholar_userid: wb9Io7gAAAAJ&hl # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
-orcid_id: # your ORCID ID
+orcid_id: 0000-0001-8718-0902 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
