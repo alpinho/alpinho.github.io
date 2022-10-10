@@ -24,6 +24,7 @@ social: true  # includes social icons at the bottom of the page
 
 
 I am a Cognitive Neuroscientist with a background in Engineering Physics. My research focuses on the application of functional Magnetic Resonance Imaging (fMRI) and statistical techniques to map the neural mechanisms in the human brain involved in cognition.
+</pre>
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
