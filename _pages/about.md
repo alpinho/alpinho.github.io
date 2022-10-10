@@ -9,10 +9,11 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>BMI, office #4130</p>
-    <p>WIRB</p>
-    <p>Western University, Dock #76, 1151 Richmond St N</p>
-    <p>London, Ontario N6A 3K7, Canada</p>
+    <p>BMI-WIRB, office #4130</p>
+    <p>Western University</p>
+    <p>Dock #76, 1151 Richmond St N</p>
+    <p>London, Ontario</p>
+    <p>N6A 3K7, Canada</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
