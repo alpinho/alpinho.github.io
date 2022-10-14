@@ -8,7 +8,7 @@ middle_name:
 last_name: Pinho
 email: agrilopi@uwo.ca
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Academic website of Ana Luísa Pinho.
 footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: academic-website # add your own keywords or leave empty
@@ -75,7 +75,7 @@ orcid_id: 0000-0001-8718-0902 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
-research_gate_profile: # your profile on ResearchGate
+research_gate_profile: Ana-Pinho-25
 blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
@@ -89,7 +89,7 @@ pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
 instagram_id: # your instagram id
 facebook_id: # your facebook id
-discord_id: # your discord id (18-digit unique numerical identifier)
+discord_id: 712648770847899708  #(18-digit unique numerical identifier)
 
 contact_note: >
   Preferred method of contact: E-mail
@@ -118,15 +118,15 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: alpinho # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
 # If you have blog posts published on medium.com or other exteranl sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+# external_sources:
+#   - name: medium.com
+#     rss_url: https://medium.com/@al-folio/feed
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -194,7 +194,7 @@ defaults:
   - scope:
       path: "assets/**/*.*"
     values:
-      sitemap: false
+      sitemap: true
 
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
