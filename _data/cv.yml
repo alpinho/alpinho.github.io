@@ -2,96 +2,129 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Ana Luísa Grilo Pinho
     - name: Languages
-      value: English, German
+      value: Portuguese, English, French
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: <a href="https://www.uc.pt/en">University of Coimbra</a> (Coimbra, Portugal) and <a href="https://ki.se/en">Karolinska Institutet</a> (Stockholm, Sweden)
+      year: 2015
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: Thesis
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - <a href="http://hdl.handle.net/10316/27005"><i>Inside of the Creative Mind:Unravelling the Neurocognitive Mechanisms of Musical Creativity</i></a>
+        - "My PhD Project was focused on the neurocognitive mechanisms underlying musical creativity within the framework of musical performance. I’ve used musical improvisation as a model behaviour and <i>functional Magnetic Resonance Imaging</i> (fMRI) as a technique in order to access the correspondent brain activity in professional pianists."
+        - title: Study I sought to investigate the specific neurocognitive effects derived from expertise in musical improvisation. Results show a significant negative association between improvisational training and activity in a number of cortical regions in the right hemisphere. Besides, more experienced improvisers showed higher functional connectivity during improvisation between prefrontal, premotor, and motor regions. 
+          contents:
+            - See <a href="https://doi.org/10.1523/JNEUROSCI.4769-13.2014">Pinho <i>et al.</i> (2014)</a>.
+        - title: Study II explored the contribution of the <i>Dorsolateral Prefrontal Cortex</i> (DLPFC) in creative cognition. Main findings highlight that deliberative creative cognition can be implemented in different ways given different circumstances. Higher activity was registered in the right DLPFC as well as in the parietal lobe and right dorsal premotor cortex, when contrasting structural conditions with emotional conditions. Conversely, deactivations were identified for the emotional constraints in the same regions, and activations were found in other regions explicitly contributing to emotion processing. 
+          contents:
+            - See <a href="https://doi.org/10.1093/cercor/bhv130">Pinho <i>et al.</i> (2016)</a>.
+        - title: Faculty Supervisors
+          contents:
+            - <a href="https://ki.se/en/neuro/ullen-laboratory">Fredrik Ullén</a>
+            - <a href="https://www.aesthetics.mpg.de/en/the-institute/people/oerjan-de-manzano.html">Örjan de Manzano</a>
+            - <a href="https://ki.se/en/cns/peter-franssons-research-group-our-research">Peter Fransson</a>
+            - <a href="https://www.uc.pt/en/fmuc/labbiostatisticsmedicalinformatics">Miguel Castelo-Branco</a>
+
+    - title: MSc + Licentiate Degrees (Integrated Master) in Engineering Physics
+      institution: <a href="https://tecnico.ulisboa.pt/en">Instituto Superior Técnico, University of Lisbon</a>, Lisbon, Portugal
+      year: 2008
       description:
-        - Description 1.
-        - Description 2.
+        - title: Title of the Master Thesis
+          contents:
+            - <a href="https://fenix.tecnico.ulisboa.pt/cursos/meft/dissertacao/2353642196027"><i>Probabilistic non-linear earthquake location in a 3–D velocity model</i></a>
+        - The main topic of this thesis pertains to the application of an hypocenter non-linear location method to the 3–D velocity P–wave and S-wave models for SWIberia (Southwest Iberian Peninsula) plus adjacent Atlantic area of Azores and Madeira.
+        - title: Faculty Supervisor
+          contents:
+            - <a href="https://fenix.tecnico.ulisboa.pt/homepage/ist12173">João Fonseca</a>
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: BrainsCAN Postdoctoral Fellow
+      institution: <a href="https://www.uwo.ca">University of Western Ontario</a>, London ON, Canada
+      year: 2021-present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - My main project in this fellowship pertains to the functional mapping of the cortico-striatal-cerebellar circuitry involved in the cognitive ability of forming temporal predictions during rhythmic and non-rhythmic sequences of events. 
+        - I am also interested on the development of encoding models of cognitive tasks as means to improve reverse inferense in neuroimaging and, to this end, I am studying how to combine task-fMRI data across different datasets that will allow us to improve specificity of the statistical results relative to elementary cognitive components that modulate behavior.
+        - title: Faculty Advisors
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - <a href="https://www.diedrichsenlab.org">Jörn Diedrichsen</a>
+            - <a href="http://www.jessicagrahn.com">Jessica Grahn</a>
+    - title: Postdoctoral Researcher
+      institution: <a href="https://team.inria.fr/parietal">Parietal Team, Inria Saclay – Île-de-France</a>, France
+      year: 2015-2020
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+        - title: I was involved in the development of the <i>Individual Brain Charting</i> (IBC) dataset, which refers to an open-access neuroimaging initiative concerning the acquisition and analysis of multitask fMRI data for the establishment of a neurocognitive atlas of the human brain. This project is part of the <i>Human Brain Project</i> consortium. 
+          contents:
+            - See <a href="https://doi.org/10.1038/sdata.2018.105">Pinho <i>et al.</i> (2018)</a> and <a href="https://doi.org/10.1038/s41597-020-00670-4">Pinho <i>et al.</i> (2020)</a>.
+        - title: Because many fMRI studies are limited to one single task and only report group-average brain maps that hinder effect specificity and a fine demarcation of brain regions, I also developed an individual-functional-atlasing approach to link functional segregation of specialized brain regions to elementary mental functions, by leveraging the IBC dataset. 
+          contents:
+            - See <a href="https://doi.org/10.1002/hbm.25189">Pinho <i>et al.</i> (2021)</a>.
+        - title: Advisor
+          contents:
+            - <a href="https://pages.saclay.inria.fr/bertrand.thirion">Bertrand Thirion</a>
+            
+- title: Fellowships, grants & awards
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
+    - year: 2021-present
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - <a href="https://brainscan.uwo.ca/">BrainsCAN Postdoctoral Fellowship</a>, Western University (London ON, Canada)
+        - "Amount: ∼150000CAD"
+    - year: 2013-2014
       items: 
-        - Max Planck Medal
+        - Research fellowship, <a href="https://salenstiftelsen.se">Sven and Dagmar Saléns Foundation</a> (Stockholm, Sweden)
+        - "Amount: ∼144000SEK"
+    - year: 2013
+      items: 
+        - Prize of <i>The Best Poster Communication</i> in the <a href="http://www.spn.org.pt/docs/INTERNATIONAL%20_SYMPOSIUm.pdf">"Symposium Music, Poetry & The Brain - Celebrating Wagner's Bicentennial"</a>, Rectory of NOVA University Lisbon (Lisbon, Portugal)
+    - year: 2009-2013
+      items: 
+        - PhD studentship from <a href="https://www.fct.pt/fct.phtml.en">Foundation of Science and Technology (FCT)</a> (SFRH/BD/33895/2009) under the PHD Programme in Experimental Biology and Biomedicine of Center for Neuroscience and Cell Biology, University of Coimbra (Coimbra, Portugal)
+        - "Amount: ∼80152.58€"
+    - year: 2006-2007
+      items: 
+        - Scientific initiation grant in Seismology from <a href="https://www.fct.pt/fct.phtml.en">FCT</a>, <a href="https://tecnico.ulisboa.pt/en">Instituto Superior Técnico</a> (Lisbon, Portugal)
+        - "Amount: ∼3600€"
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+    - title: Cognitive and systems neuroscience
       items:
-        - Description 1.
-        - Description 2.
+        - Development of deep-behavioral-phenotyping strategies to inspect cognitive components of the phenotype and their network consistency/variability across individuals
+        - Study of high-order neurocognitive mechanisms involved in both musical performance and perception
+    - title: Neuroimaging
+      items:
+        - Focus in Functional Magnetic Resonance Imaging (fMRI)
+    - title: Cognitive Brain Atlasing
+      items:
+        - Development of encoding models to perform functional mapping of cognition in the human brain
+        - Development of a common framework of psycho-physiological constructs
+    - title: Data Science
+      items:
+        - Development of data-sharing facilities
+        - Reproducibility in systems neuroscience and neuroimaging
+        
+- title: Open Source Projects
+  type: time_table
+  contents:
+    - title: <a href="https://neurocausal.github.io/">NeuroCausal</a>
+      year: 2022-present
+      description: "Contributer to NeuroCausal: “An open data sharing and metadata synthesis platform for clinical data”"
+    - title: <a href="https://nilearn.github.io/stable/index.html">Nilearn</a>
+      year: 2017-present
+      description: "Contributer to Nilearn: “Statistics for NeuroImaging in Python”"
+    - title: <a href="https://github.com/hbp-brain-charting/public_analysis_code">IBC-analyses pipeline</a>
+      year: 2015-present
+      description: Contributer to the <i>Repository of Public Analysis Code for the IBC Project</i>.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <i>Equity, Diversity, and Inclusion</i> (EDI) in academia, with a particular focus in promoting gender equity. Please check the <a href="https://www.winrepo.org/"><i>Women in Neuroscience Repository</i> (WiNRepo)</a> in which I have been involved for the past years.

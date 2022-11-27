@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://brainscan.uwo.ca/'>BrainsCAN</a> Postdoctoral Fellow at <a href='https://www.diedrichsenlab.org/'>Diedrichsenlab</a> and <a href='http://www.jessicagrahn.com/'>The Music and Neuroscience Lab</a>.
+subtitle: <a href='https://brainscan.uwo.ca/'>BrainsCAN</a> Postdoctoral Fellow at <a href='https://www.diedrichsenlab.org/'>Diedrichsenlab</a> and <a href='http://www.jessicagrahn.com/'>The Music and Neuroscience Lab</a>.<br /><br />
 
 profile:
   align: right
@@ -20,9 +20,20 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<p style="padding: 4em 0 0 0;">
-I am a Cognitive Neuroscientist with a background in Engineering Physics. My research focuses on the application of functional Magnetic Resonance Imaging (fMRI) and statistical techniques to map the neural mechanisms in the human brain involved in cognition.
+<!--(top, right, bottom, left)!-->
+<p style="padding: 0em 0 0 0;">
+I am a Cognitive Neuroscientist with a background in Engineering Physics. My research focuses on the application of functional Magnetic Resonance Imaging (fMRI) and statistical techniques to map the neural mechanisms in the human brain involved in high-order cognitive functions.
 </p>
+
+<div class="col-25 p-0">
+	<div id="twitter-widget-holder">
+		<section class="scrollable">
+			<a class="twitter-timeline" href="https://twitter.com/ALuisaPinho" data-tweet-limit="1">Tweets by Ana Luísa Pinho</a>
+				<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+	    </section>
+	</div>
+</div>
+<br />
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
