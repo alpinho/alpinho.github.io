@@ -33,7 +33,7 @@ nav_order: 5
 </head>
 
 <body>
-<p>To access the full list of my talks, please visit my <a href="https://www.slideshare.net/AnaLuPinho">SlideShare account</a>.</p>
+<p>To access the full list of my talks, please visit my <a href="https://www.slideshare.net/AnaLuPinho">SlideShare webpage</a>.</p>
 <div id="toc_container">
     <p class="toc_title">Contents</p>
     <ul class="toc_list">
