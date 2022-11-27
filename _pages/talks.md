@@ -36,28 +36,28 @@ nav_order: 5
 <div id="toc_container">
     <p class="toc_title">Contents</p>
     <ul class="toc_list">
-        <li style="padding: 0.5em 0 0.25em 0"><a href="#First_Point_Header">
-                1 Invited Talks </a>
+        <li style="padding: 0.5em 0 1.5em 0"><a href="#First_Point_Header">
+                1. Invited Talks </a>
                 <ol>
-                    <a href="#IT1">Deep behavioral phenotyping in functional MRI for cognitive mapping of the human brain</a>
+                    <a href="#IT1">a. Deep behavioral phenotyping in functional MRI for cognitive mapping of the human brain</a>
                 </ol>
                 <ol>
-                    <a href="#IT2">Individual functional atlasing of the human brain with multitask fMRI data: leveraging the IBC dataset</a>
+                    <a href="#IT2">b. Individual functional atlasing of the human brain with multitask fMRI data: leveraging the IBC dataset</a>
                 </ol>
                 <ol>
-                    <a href="#IT3">Individual Brain Charting, a high-resolution fMRI dataset for cognitive mapping of the human brain</a>
+                    <a href="#IT3">c. Individual Brain Charting, a high-resolution fMRI dataset for cognitive mapping of the human brain</a>
                 </ol>
         </li>
-        <li style="padding: 0 0 0.25em 0"><a href="#Second_Point_Header">
-                2 Talks at International Conferences</a>
+        <li style="padding: 0 0 1em 0"><a href="#Second_Point_Header">
+                2. Talks at International Conferences</a>
                 <ol>
-                    <a href="#TIC1">Segregation of functional territories in individual brains</a>
+                    <a href="#TIC1">a. Segregation of functional territories in individual brains</a>
                 </ol>
                 <ol>
-                    <a href="#TIC2">Individual Brain Charting dataset extension: second and third releases</a>
+                    <a href="#TIC2">b. Individual Brain Charting dataset extension: second and third releases</a>
                 </ol>
                 <ol>
-                    <a href="#TIC3">Individual Brain Charting, a high-resolution fMRI dataset for cognitive mapping of the human brain</a>
+                    <a href="#TIC3">c. Individual Brain Charting, a high-resolution fMRI dataset for cognitive mapping of the human brain</a>
                 </ol>
         </li>
     </ul>
