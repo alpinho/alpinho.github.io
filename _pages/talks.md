@@ -2,7 +2,7 @@
 layout: page
 permalink: /talks/
 title: Selected Talks
-description: Slide presentations followed by a short description for a selection of my talks
+description: Slide presentations followed by an abstract or short description for a selection of my talks
 nav: true
 nav_order: 5
 ---
@@ -96,17 +96,17 @@ Linking brain systems and mental functions requires accurate descriptions of beh
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/G2yw8PD5LRMvZj" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AnaLuPinho/segregation-of-functional-territories-in-individual-brains" title="Segregation of functional territories in individual brains" target="_blank">Segregation of functional territories in individual brains</a> </strong> from <strong><a href="//www.slideshare.net/AnaLuPinho" target="_blank">Ana Luísa Pinho</a></strong> </div>
 </p>
 
-Aims
-FMRI allows for characterization of brain activations in response to behavior. However, cognitive neuroscience is limited to group-level effects on specific tasks. Pooling data from different task-fMRI studies free from inter-subject and inter-site variability is mandatory toward a fine functional profile of cognitive atoms. We present the Individual Brain Charting dataset --concerning fMRI data acquired at high resolution (1.5mm) in the same environment and cohort-- and investigate the feasibility of individual functional atlasing using a rich taskwise dataset.
+<p><b>Aims</b></p>
+<p>FMRI allows for characterization of brain activations in response to behavior. However, cognitive neuroscience is limited to group-level effects on specific tasks. Pooling data from different task-fMRI studies free from inter-subject and inter-site variability is mandatory toward a fine functional profile of cognitive atoms. We present the Individual Brain Charting dataset --concerning fMRI data acquired at high resolution (1.5mm) in the same environment and cohort-- and investigate the feasibility of individual functional atlasing using a rich taskwise dataset.</p>
 
-Methods
-Individual z-maps from the 60 main contrasts across tasks were estimated to capture significant functional signatures. These derivatives were analyzed as in Pinho et al. (2018). Besides, contrasts were decomposed using dictionary-learning into individual networks featuring neural correlates common to the tasks. To gain insights about these commonalities, we also reconstructed contrasts from the remaining ones in a cross-validation experiment. Additionally, we delineated the cognitive profile of 6 regions-of-interest and assessed whether voxels were correctly assigned to these regions across participants.
+<p><b>Methods</b></p>
+<p>Individual z-maps from the 60 main contrasts across tasks were estimated to capture significant functional signatures. These derivatives were analyzed as in Pinho et al. (2018). Besides, contrasts were decomposed using dictionary-learning into individual networks featuring neural correlates common to the tasks. To gain insights about these commonalities, we also reconstructed contrasts from the remaining ones in a cross-validation experiment. Additionally, we delineated the cognitive profile of 6 regions-of-interest and assessed whether voxels were correctly assigned to these regions across participants.</p>
 
-Results
-Individual components were consistently mapped and tasks were well predicted from one another. Yet, scores decreased when subjects were permuted between train and test, showing that topographies are driven by subject-specific anatomo-functional characteristics. Additionally, characterization of regions-of-interest from many contrasts objectively establishes functional specialization, supported by prediction accuracies of voxel classification.
+<p><b>Results</b></p>
+<p>Individual components were consistently mapped and tasks were well predicted from one another. Yet, scores decreased when subjects were permuted between train and test, showing that topographies are driven by subject-specific anatomo-functional characteristics. Additionally, characterization of regions-of-interest from many contrasts objectively establishes functional specialization, supported by prediction accuracies of voxel classification.</p>
 
-Conclusions
-Successful predictions revealed the existence of a latent structure underlying different tasks, illustrating the benefit of system-level, multi-task brain mapping. Contrasts and, subsequently, individual topographies are increasing with the latest releases, allowing for better brain-atlasing frameworks.
+<p><b>Conclusions</b></p>
+<p>Successful predictions revealed the existence of a latent structure underlying different tasks, illustrating the benefit of system-level, multi-task brain mapping. Contrasts and, subsequently, individual topographies are increasing with the latest releases, allowing for better brain-atlasing frameworks.</p>
 
 <p id="TIC2" style="padding: 5em 0 0 0">
 <iframe id="TIC2" src="//www.slideshare.net/slideshow/embed_code/key/5Pp5BJCchqBRin" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AnaLuPinho/individual-brain-charting-dataset-extension-second-and-third-releases" title="Individual Brain Charting dataset extension: second and third releases" target="_blank">Individual Brain Charting dataset extension: second and third releases</a> </strong> from <strong><a href="//www.slideshare.net/AnaLuPinho" target="_blank">Ana Luísa Pinho</a></strong> </div>
