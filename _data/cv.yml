@@ -95,7 +95,7 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Cognitive and systems neuroscience
+    - title: Cognitive and Systems Neuroscience
       items:
         - Development of deep-behavioral-phenotyping strategies to inspect cognitive components of the phenotype and their network consistency/variability across individuals
         - Study of high-order neurocognitive mechanisms involved in both musical performance and perception
