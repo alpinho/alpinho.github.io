@@ -2,7 +2,7 @@
 layout: page
 permalink: /talks/
 title: Selected Talks
-description: Slide presentations followed by an abstract or short description for a selection of my talks
+description:
 nav: true
 nav_order: 5
 ---
@@ -33,6 +33,7 @@ nav_order: 5
 </head>
 
 <body>
+<p>To access the full list of my talks, please visit my <a href="https://www.slideshare.net/AnaLuPinho">SlideShare account</a>.</p>
 <div id="toc_container">
     <p class="toc_title">Contents</p>
     <ul class="toc_list">
