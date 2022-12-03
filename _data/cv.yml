@@ -20,7 +20,7 @@
         - title: Study I sought to investigate the specific neurocognitive effects derived from expertise in musical improvisation. Results show a significant negative association between improvisational training and activity in a number of cortical regions in the right hemisphere. Besides, more experienced improvisers showed higher functional connectivity during improvisation between prefrontal, premotor, and motor regions. 
           contents:
             - See <a href="https://doi.org/10.1523/JNEUROSCI.4769-13.2014">Pinho <i>et al.</i> (2014)</a>.
-        - title: Study II explored the contribution of the <i>Dorsolateral Prefrontal Cortex</i> (DLPFC) in creative cognition. Main findings highlight that deliberative creative cognition can be implemented in different ways given different circumstances. Higher activity was registered in the right DLPFC as well as in the parietal lobe and right dorsal premotor cortex, when contrasting structural conditions with emotional conditions. Conversely, deactivations were identified for the emotional constraints in the same regions, and activations were found in other regions explicitly contributing to emotion processing. 
+        - title: Study II explored the contribution of the <i>Dorsolateral Prefrontal Cortex</i> (DLPFC) in creative cognition. Main findings highlight that deliberative creative cognition can be implemented in different ways given different circumstances. Higher activity was registered in the right DLPFC as well as in the parietal lobe and right dorsal premotor cortex, when contrasting structural conditions with emotional conditions. Conversely, the DLPFC was functionally connected to the default mode network during emotional conditions.
           contents:
             - See <a href="https://doi.org/10.1093/cercor/bhv130">Pinho <i>et al.</i> (2016)</a>.
         - title: Faculty Supervisors
@@ -98,7 +98,7 @@
     - title: Cognitive and Systems Neuroscience
       items:
         - Development of deep-behavioral-phenotyping strategies to inspect cognitive components of the phenotype and their network consistency/variability across individuals
-        - Study of high-order neurocognitive mechanisms involved in both musical performance and perception
+        - Investigation of high-order neurocognitive mechanisms involved in both musical performance and perception
     - title: Neuroimaging
       items:
         - Focus in Functional Magnetic Resonance Imaging (fMRI)

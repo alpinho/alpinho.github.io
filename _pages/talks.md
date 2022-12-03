@@ -35,7 +35,7 @@ nav_order: 5
 <body>
 <p>To access the full list of my talks, please visit my <a href="https://www.slideshare.net/AnaLuPinho">SlideShare webpage</a>.</p>
 <div id="toc_container">
-    <p class="toc_title">Contents</p>
+    <p class="toc_title" style="color:black;">Contents</p>
     <ul class="toc_list">
         <li style="padding: 0.5em 0 1.5em 0"><a href="#First_Point_Header">
                 1. Invited Talks </a>
