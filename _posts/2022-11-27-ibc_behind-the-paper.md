@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Behind the IBC data papers
-date:   2022-11-27 01:30:00
+date:   2022-11-27 06:30:00 UTC
 description: Post in Springer Nature about the origins of the IBC project
 tags: external-posts
 categories: neuroimaging
