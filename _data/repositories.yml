@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - alpinho
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - hbp-brain-charting/public_analysis_code
+  - hbp-brain-charting/public_protocols
+  - alpinho/nilearn
+  - alpinho/neurocausal_meta
+  - WomenInNeuroscience/winrepo
+  - alpinho/winrepo 

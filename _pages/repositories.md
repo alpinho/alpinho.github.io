@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+title: Repositories
+description: List of Public Repositories I have directly contributed to. Forked Repositories are used to send Pull Requests to the corresponding Upstream Repositories.
 nav: true
 nav_order: 3
 ---
