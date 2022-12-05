@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 
 <!--(top, right, bottom, left)!-->
 <p style="padding: 0em 0 0 0;">
-I am a Cognitive Neuroscientist with a background in Engineering Physics. My research focuses on the application of functional Magnetic Resonance Imaging (fMRI) and statistical techniques to map the neural mechanisms in the human brain involved in high-order cognitive functions.
+I am a Neuroscientist with a background in Engineering Physics. My research focuses on the application of <i>functional Magnetic Resonance Imaging</i> (fMRI) and statistical techniques to map the neurocognitive mechanisms in the human brain involved in higher-order cognition.
 </p>
 
 <div class="col-25 p-0">
