@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: Repositories
-description: List of Public Repositories I have directly contributed to. Forked Repositories are used to send Pull Requests to the corresponding Upstream Repositories.
+description: List of <b><u>Public</u></b> Repositories I have directly contributed to. Forked Repositories are used to send Pull Requests to the corresponding Upstream Repositories.
 nav: true
 nav_order: 3
 ---
