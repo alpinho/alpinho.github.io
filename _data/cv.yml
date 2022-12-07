@@ -50,7 +50,7 @@
       year: 2021-present
       description:
         - My main project in this fellowship pertains to the functional mapping of the cortico-striatal-cerebellar circuitry involved in the cognitive ability of forming temporal predictions during rhythmic and non-rhythmic sequences of events. 
-        - I am also interested on the development of encoding models of cognitive tasks as means to improve reverse inferense in neuroimaging and, to this end, I am studying how to combine task-fMRI data across different datasets that will allow us to improve specificity of the statistical results relative to elementary cognitive components that modulate behavior.
+        - I am also interested on the development of encoding models of cognitive tasks as means to improve functional specificity in neuroimaging and, to this end, I am studying how to combine task-fMRI data across different datasets that will allow us to improve specificity of the statistical results relative to elementary cognitive components that modulate behavior.
         - title: Faculty Advisors
           contents:
             - <a href="https://www.diedrichsenlab.org">Jörn Diedrichsen</a>
