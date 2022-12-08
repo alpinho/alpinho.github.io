@@ -91,6 +91,7 @@ unsplash_id: # your unsplash id
 instagram_id: # your instagram id
 facebook_id: # your facebook id
 discord_id: 712648770847899708  #(18-digit unique numerical identifier)
+mastodon_username: ALuisaPinho
 
 contact_note: >
   Preferred method of contact: E-mail
