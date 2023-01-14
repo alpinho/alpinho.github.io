@@ -45,7 +45,7 @@ nav_order: 5
 </head>
 
 <body>
-<p>To access the full list of my talks, please visit my <a href="https://www.slideshare.net/AnaLuPinho">SlideShare webpage</a> or consult <a href="../assets/pdf/cv_analu_pinho.pdf">my CV</a>.</p>
+<p>To access the full list of my talks, please visit my <a href="https://www.slideshare.net/AnaLuPinho">SlideShare webpage</a> or consult <a href="../cv">my CV</a>.</p>
 <div id="toc_container">
     <p class="toc_title" style="color:black;">Contents</p>
     <ul class="toc_list">
