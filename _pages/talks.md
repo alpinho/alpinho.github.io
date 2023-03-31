@@ -55,10 +55,13 @@ nav_order: 5
                     <a href="#IT1">a. Deep behavioral phenotyping in functional MRI for cognitive mapping of the human brain</a>
                 </ol>
                 <ol>
-                    <a href="#IT2">b. Individual functional atlasing of the human brain with multitask fMRI data: leveraging the IBC dataset</a>
+                    <a href="#IT2">a. Deep behavioral phenotyping in functional MRI for cognitive mapping of the human brain</a>
                 </ol>
                 <ol>
-                    <a href="#IT3">c. Individual Brain Charting, a high-resolution fMRI dataset for cognitive mapping of the human brain</a>
+                    <a href="#IT3">b. Individual functional atlasing of the human brain with multitask fMRI data: leveraging the IBC dataset</a>
+                </ol>
+                <ol>
+                    <a href="#IT4">c. Individual Brain Charting, a high-resolution fMRI dataset for cognitive mapping of the human brain</a>
                 </ol>
         </li>
         <li style="padding: 0 0 1em 0"><a href="#Second_Point_Header">
@@ -81,6 +84,29 @@ nav_order: 5
 <h2 id="First_Point_Header" style="padding: 1em 0 0 0"><b>Invited Talks</b></h2>
 
 <p id="IT1" style="padding: 4em 0 0 0">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/LqAEo1QiFcPYzq" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AnaLuPinho/deep-behavioral-phenotyping-in-functional-mri-for-cognitive-mapping-of-the-human-brain-256818289" title="Deep behavioral phenotyping in functional MRI for cognitive mapping of the human brain" target="_blank">Deep behavioral phenotyping in functional MRI for cognitive mapping of the human brain</a> </strong> from <strong><a href="//www.slideshare.net/AnaLuPinho" target="_blank">Ana Luísa Pinho</a></strong> </div>
+</p>
+<ul>
+    <li style="list-style: 'Date:'; font-weight: bold; margin-left: -.15em;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong style="font-weight:300">March 22, 2023 / 3pm-4pm EST</strong></li>
+    <li style="list-style: 'Event:'; font-weight: bold; margin-left: 0.25em">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong style="font-weight:300">Seminar at the MNI Feindel Brain and Mind Lecture Series</strong></li>
+    <li style="list-style: 'Location:'; font-weight: bold; margin-left: 1.65em">&nbsp;&nbsp;<strong style="font-weight:300"><i>McConnell Brain Imaging Centre (BIC)</i> and <i>Montreal Neurological Institute (The Neuro)</i>, McGill University, Montreal, Canada</strong></li>
+    <li style="list-style: 'Abstract:'; font-weight: bold; margin-left: 1.5em; margin-bottom: -1em"></li>
+</ul>
+<p align="justify" style="margin-bottom: 0em">Functional Magnetic Resonance Imaging (fMRI) provides means to characterize brain activations in response to behavior. However, cognitive neuroscience has been limited to group-level effects referring to the performance of specific tasks. To obtain the functional profile of elementary cognitive mechanisms, the combination of brain responses to many tasks is required, by pooling data or results from different single-task studies. Meta-analyses allow the accumulation of knowledge across studies. Yet, they are typically impacted not only by inter-subject and inter-site variability but also loss of information from sparse peak-coordinate representations. In this talk, I will address a battery of studies, which combine deep phenotyping and multitask-fMRI approaches to extensively investigate the functional signatures of the different components that characterize the human behavior. First, I will describe a set of experiments, based on temporally controlled task designs, reported in [1], [2] and [3], in which we leverage a collection of source task-fMRI data from the Individual Brain Charting (IBC) dataset. The main goal herein is to investigate the feasibility of performing individual functional brain atlasing, free from inter-subject and inter-site variability, as an effort to establish an univocal relationship between functional segregation of brain regions and elementary mental functions. Results show that individual topographies---common to all tasks---are consistently mapped within and, to a lesser extent, across participants. Besides, prediction scores associated with the reconstruction of contrasts of one task from the remaining ones reveal the quantitative contribution of each task to these common representations. Yet, scores decreased when subjects were permuted between train and test, confirming that topographies are driven by subject-specific variability. In addition, we demonstrate how cognitive mapping can benefit from contrasts accumulation, by analyzing the functional fingerprints of a set of individualized regions-of-interest from the language network. Second, I will describe our ongoing work on the quality-assessment and validation of a subset of tasks from the IBC dataset based on naturalistic stimuli using two types of encoding models: the unsupervised Fast Shared Response Model [4], and a feature-defined model based on Deep Convolutional Neural Networks [5, 6].</p>
+<a href="https://www.doi.org/10.1002/hbm.25189">Pinho, A.L. et al. (2021) DOI: 10.1002/hbm.25189</a>
+<br />
+<a href="https://www.doi.org/10.1038/sdata.2018.105">Pinho, A.L. et al. (2018) DOI: 10.1038/sdata.2018.105</a>
+<br />
+<a href="https://www.doi.org/10.1038/s41597-020-00670-4">Pinho, A.L. et al. (2020) DOI: 10.1038/s41597-020-00670-4</a>
+<br />
+<a href="https://www.doi.org/10.48550/arXiv.1909.12537">Richard, H. et al. (2019) DOI: 10.48550/arXiv.1909.12537</a>
+<br />
+<a href="https://www.doi.org/10.1016/j.neuroimage.2016.10.001">Eickenberg, M. et al. (2016) DOI: 10.1016/j.neuroimage.2016.10.001</a>
+<br />
+<a href="https://www.doi.org/10.1523/JNEUROSCI.5023-14.2015">Güçlü, U. and van Gerven, M. A. J. (2015) DOI: 10.1523/JNEUROSCI.5023-14.2015 </a>
+<hr class="solid">
+
+<p id="IT2" style="padding: 4em 0 0 0">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/dFzXj75ZbdBG0B" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AnaLuPinho/deep-behavioral-phenotyping-in-functional-mri-for-cognitive-mapping-of-the-human-brain" title="Deep behavioral phenotyping in functional MRI for cognitive mapping of the human brain" target="_blank">Deep behavioral phenotyping in functional MRI for cognitive mapping of the human brain</a> </strong> from <strong><a href="//www.slideshare.net/AnaLuPinho" target="_blank">Ana Luísa Pinho</a></strong> </div>
 </p>
 <ul>
@@ -99,7 +125,7 @@ nav_order: 5
 <a href="https://www.doi.org/10.48550/arXiv.1909.12537">Richard, H. et al. (2019) DOI: 10.48550/arXiv.1909.12537</a>
 <hr class="solid">
 
-<p id="IT2" style="padding: 4em 0 0 0">
+<p id="IT3" style="padding: 4em 0 0 0">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/NzqjEK5GtgaP3I" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AnaLuPinho/individual-functional-atlasing-of-the-human-brain-with-multitask-fmri-data-leveraging-the-ibc-dataset-239105719" title="Individual functional atlasing of the human brain with multitask fMRI data: leveraging the IBC dataset" target="_blank">Individual functional atlasing of the human brain with multitask fMRI data: leveraging the IBC dataset</a> </strong> from <strong><a href="//www.slideshare.net/AnaLuPinho" target="_blank">Ana Luísa Pinho</a></strong> </div>
 </p>
 <ul>
@@ -111,7 +137,7 @@ nav_order: 5
 <p align="justify">Linking brain systems and mental functions requires accurate descriptions of behavioral tasks and fine demarcations of brain regions. Functional Magnetic Resonance Imaging (fMRI) has opened the possibility to investigate how brain activity is modulated by behavior. However, to date, no data collection has systematically addressed the functional mapping of cognitive mechanisms at a fine spatial scale. Most studies so far are bound to one single task, in which functional responses to a handful of contrasts are analyzed and reported as a group average brain map. The Individual Brain Charting (IBC) project stands for a high-resolution (1.5mm), multi-task fMRI dataset, intended to provide an objective basis for the establishment of a neurocognitive atlas based on the individual mapping of the human brain. This data collection refers to a permanent cohort during performance of a wide variety of tasks across many sessions. Data up to the third release---comprising 28 tasks---are publicly available in the OpenNeuro repository (ds002685). Derived statistical maps from the first and second releases can be found in NeuroVault (id6618) and they amount for 205 canonical contrasts described on the basis of 113 cognitive concepts taken from the Cognitive Atlas. These derivatives reveal all together a comprehensive brain coverage of regions engaged in cognitive processes as well as a successful encoding of the functional networks reported by the original studies. As the dataset becomes larger and the ensuing collection of concepts gets richer, finer subject-specific, cognitive topographies can be extracted from the data. We thus explore this individual-functional-atlasing approach in order to link functional segregation of specialized brain regions to elementary mental functions. Results show that individual topographies---common to all tasks---are consistently mapped within and, to a lesser extent, across participants. Besides, prediction scores associated with the reconstruction of contrasts of one task from the remaining ones reveal the quantitative contribution of each task to these common representations. Yet, scores decreased when subjects were permuted between train and test, confirming that topographies are driven by subject-specific variability. Lastly, we demonstrate how cognitive mapping can benefit from contrasts accumulation, by analyzing the functional fingerprints of a set of individualized regions-of-interest from the language network.</p>
 <hr class="solid">
 
-<p id="IT3" style="padding: 4em 0 0 0">
+<p id="IT4" style="padding: 4em 0 0 0">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/50HHxsdP8oaFh7" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AnaLuPinho/individual-brain-charting-a-highresolution-fmri-dataset-for-cognitive-mapping-of-the-human-brain-132710036" title="Individual Brain Charting, a high-resolution fMRI dataset for cognitive mapping of the human brain." target="_blank">Individual Brain Charting, a high-resolution fMRI dataset for cognitive mapping of the human brain.</a> </strong> from <strong><a href="//www.slideshare.net/AnaLuPinho" target="_blank">Ana Luísa Pinho</a></strong> </div>
 </p>
 <ul>
