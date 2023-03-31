@@ -55,13 +55,13 @@ nav_order: 5
                     <a href="#IT1">a. Deep behavioral phenotyping in functional MRI for cognitive mapping of the human brain</a>
                 </ol>
                 <ol>
-                    <a href="#IT2">a. Deep behavioral phenotyping in functional MRI for cognitive mapping of the human brain</a>
+                    <a href="#IT2">b. Deep behavioral phenotyping in functional MRI for cognitive mapping of the human brain</a>
                 </ol>
                 <ol>
-                    <a href="#IT3">b. Individual functional atlasing of the human brain with multitask fMRI data: leveraging the IBC dataset</a>
+                    <a href="#IT3">c. Individual functional atlasing of the human brain with multitask fMRI data: leveraging the IBC dataset</a>
                 </ol>
                 <ol>
-                    <a href="#IT4">c. Individual Brain Charting, a high-resolution fMRI dataset for cognitive mapping of the human brain</a>
+                    <a href="#IT4">d. Individual Brain Charting, a high-resolution fMRI dataset for cognitive mapping of the human brain</a>
                 </ol>
         </li>
         <li style="padding: 0 0 1em 0"><a href="#Second_Point_Header">
