@@ -2,8 +2,8 @@ github_users:
   - alpinho
 
 github_repos:
-  - hbp-brain-charting/public_analysis_code
-  - hbp-brain-charting/public_protocols
+  - individual-brain-charting/public_analysis_code
+  - individual-brain-charting/public_protocols
   - alpinho/nilearn
   - alpinho/neurocausal_meta
   - WomenInNeuroscience/winrepo
