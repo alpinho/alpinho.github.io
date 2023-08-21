@@ -21,19 +21,23 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 <!--(top, right, bottom, left)!-->
-<p style="padding: 0em 0 0 0;">
+<br /> 
+<br /> 
+<br /> 
+<br /> 
+<p style="padding: 0em 0 0 0;" align="justify">
 I am a Neuroscientist with a background in Engineering Physics. My research focuses on the application of <i>functional Magnetic Resonance Imaging</i> (fMRI) and statistical techniques to map the neurocognitive mechanisms in the human brain involved in higher-order cognition.
 </p>
 
-<div class="col-25 p-0">
-	<div id="twitter-widget-holder">
-		<section class="scrollable">
-			<a class="twitter-timeline" href="https://twitter.com/ALuisaPinho" data-tweet-limit="1">Tweets by Ana Luísa Pinho</a>
-				<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-	    </section>
-	</div>
-</div>
-<br />
+<!-- <div class="col-25 p-0"> -->
+<!-- 	<div id="twitter-widget-holder"> -->
+<!-- 		<section class="scrollable"> -->
+<!-- 			<a class="twitter-timeline" href="https://twitter.com/ALuisaPinho" data-tweet-limit="1">Tweets by Ana Luísa Pinho</a> -->
+<!-- 				<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  -->
+<!-- 	    </section> -->
+<!-- 	</div> -->
+<!-- </div> -->
+<!-- <br /> -->
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
