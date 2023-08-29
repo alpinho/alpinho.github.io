@@ -49,8 +49,8 @@
       institution: <a href="https://www.uwo.ca">University of Western Ontario</a>, London ON, Canada
       year: 2021-present
       description:
-        - My main project in this fellowship pertains to the functional mapping of the cortico-striatal-cerebellar circuitry involved in the cognitive ability of forming temporal predictions during rhythmic and non-rhythmic sequences of events.
-        - I am also interested on the development of encoding models of cognitive tasks as means to improve functional specificity in neuroimaging and, to this end, I am studying how to combine task-fMRI data across different datasets that will allow us to improve specificity of the statistical results relative to elementary cognitive components that modulate behavior.
+        - My main project in this fellowship pertains to the functional mapping of the cortico-basal ganglia-cerebellar circuitry involved in the cognitive ability of forming temporal predictions during rhythmic and non-rhythmic sequences of events.
+        - I am also interested on the development of encoding models of cognitive tasks as means to improve functional specificity in neuroimaging and, to this end, I am studying how to combine task-fMRI data across different datasets that will allow us to improve specificity of the statistical results relative to elementary cognitive components that modulate behaviour. Concretely, I am now working on the development of individualized encoding models, suitable to be used in a fusion framework of fMRI datasets; the main goal is to systematically account for inter-subject variability, through integration of group-level parcels with individual data, and using a hierarchical Bayesian parcellation scheme.
         - title: Faculty Advisors
           contents:
             - <a href="https://www.diedrichsenlab.org">Jörn Diedrichsen</a>
