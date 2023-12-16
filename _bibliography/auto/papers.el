@@ -2,20 +2,22 @@
  "papers"
  (lambda ()
    (LaTeX-add-bibitems
-    "Uddin2023"
-    "Levitis2021"
-    "Thirion2021"
     "Dohmatob2021"
-    "Pinho2021"
-    "Pinho2020"
+    "Levitis2021"
+    "Pinho2014"
+    "Pinho2015"
+    "Pinho2018"
     "Pinho2020DCa"
     "Pinho2020DCb"
     "Pinho2020DCc"
+    "Pinho2020"
+    "Pinho2021"
+    "Pinho2023"
+    "Richard2018"
     "Richard2019"
     "Schrouff2019"
-    "Richard2018"
-    "Pinho2018"
-    "Pinho2015"
-    "Pinho2014"))
+    "Thirion2021"
+    "Thirion2023"
+    "Uddin2023"))
  '(or :bibtex :latex))
 
