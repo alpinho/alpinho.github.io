@@ -104,12 +104,12 @@
         - Focus in Functional Magnetic Resonance Imaging (fMRI)
     - title: Functional Brain Atlasing
       items:
-        - Development of encoding models to perform functional mapping of cognition in the human brain
+        - Development of encoding models &mdash;leveraging machine-learning techniques&mdash; to perform functional mapping of cognition in the human brain
         - Development of a common framework of psycho-physiological constructs
-    - title: Data Science
+    - title: Data Science and Neuroinformatics
       items:
-        - Development of data-sharing facilities
-        - Reproducibility in systems neuroscience and neuroimaging
+        - Development of big-data and data-sharing frameworks to facilitate mega-analyses and reproducibility in systems neuroscience and neuroimaging
+        - Revision of large-scale cognitive ontologies
 
 - title: Open-Source Projects
   type: time_table
