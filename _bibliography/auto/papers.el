@@ -4,6 +4,7 @@
    (LaTeX-add-bibitems
     "Dohmatob2021"
     "Levitis2021"
+    "Moia2024"
     "Pinho2014"
     "Pinho2015"
     "Pinho2018"
@@ -17,7 +18,7 @@
     "Richard2019"
     "Schrouff2019"
     "Thirion2021"
-    "Thirion2023"
+    "Thirion2024"
     "Uddin2023"))
  '(or :bibtex :latex))
 
