@@ -61,7 +61,7 @@
       description:
         - title: I was involved in the development of the <i>Individual Brain Charting</i> (IBC) dataset, which refers to an open-access neuroimaging initiative concerning the acquisition and analysis of multitask fMRI data for the establishment of a neurocognitive atlas of the human brain. This project is part of the <i>Human Brain Project</i> consortium.
           contents:
-            - See <a href="https://doi.org/10.1038/sdata.2018.105">Pinho <i>et al.</i> (2018)</a> and <a href="https://doi.org/10.1038/s41597-020-00670-4">Pinho <i>et al.</i> (2020)</a>.
+            - See <a href="https://doi.org/10.1038/sdata.2018.105">Pinho <i>et al.</i> (2018)</a>, <a href="https://doi.org/10.1038/s41597-020-00670-4">Pinho <i>et al.</i> (2020)</a>, and <a href="https://doi.org/10.1038/s41597-024-03390-1">Pinho <i>et al.</i> (2024)</a>.
         - title: Because many fMRI studies are limited to one single task and only report group-average brain maps that hinder effect specificity and a fine demarcation of brain regions, I also developed an individual-functional-atlasing approach to link functional segregation of specialized brain regions to elementary mental functions, by leveraging the IBC dataset.
           contents:
             - See <a href="https://doi.org/10.1002/hbm.25189">Pinho <i>et al.</i> (2021)</a>.
