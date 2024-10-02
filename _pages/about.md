@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://brainscan.uwo.ca/'>BrainsCAN</a> Postdoctoral Fellow at <a href='http://www.jessicagrahn.com/'>The Music and Neuroscience Lab</a>, and in collaboration with <a href='https://www.diedrichsenlab.org/'>Diedrichsenlab</a>.<br /><br />
+subtitle: <a href='https://brainscan.uwo.ca/'>BrainsCAN</a> Postdoctoral Fellow at <a href='http://www.jessicagrahn.com/'>The Music and Neuroscience Lab</a>, in collaboration with <a href='https://www.diedrichsenlab.org/'>Diedrichsenlab</a>.<br /><br />
 
 profile:
   align: right
