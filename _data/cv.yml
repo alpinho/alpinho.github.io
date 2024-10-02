@@ -53,8 +53,8 @@
         - I am also interested on the development of encoding models of cognitive tasks as means to improve functional specificity in neuroimaging and, to this end, I am studying how to combine task-fMRI data across different datasets that will allow us to improve specificity of the statistical results relative to elementary cognitive components that modulate behaviour. Concretely, I am now working on the development of individualized encoding models, suitable to be used in a fusion framework of fMRI datasets. The main goal is to perform individual parcellations on functional maps of the human brain by systematically account for inter-subject variability, through integration of group-level parcels with individual data and using a hierarchical Bayesian parcellation scheme.
         - title: Faculty Advisor and Collaborator
           contents:
-            - <a href="https://www.diedrichsenlab.org">Jessica Grahn</a>
-            - <a href="http://www.jessicagrahn.com">Jörn Diedrichsen</a>
+            - <a href="https://www.jessicagrahn.com">Jessica Grahn</a>
+            - <a href="http://www.diedrichsenlab.org">Jörn Diedrichsen</a>
     - title: Postdoctoral Researcher
       institution: <a href="https://team.inria.fr/parietal">Parietal Team, Inria Saclay – Île-de-France</a>, France
       year: 2015-2020
