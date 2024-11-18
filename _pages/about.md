@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>WIN-WIRB, office #4130</p>
+    <p>WIRB, office #4130</p>
     <p>Western Univ., Dock #76</p>
     <p>1151 Richmond St N</p>
     <p>London, Ontario</p>
