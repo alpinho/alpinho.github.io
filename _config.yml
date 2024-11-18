@@ -323,8 +323,8 @@ bootstrap:
     css: "sha256-DF7Zhf293AJxJNTmh5zhoYYIMs2oXitRfBjY+9L//AY="
     js: "sha256-fgLAgv7fyCGopR/gBNq2iW3ZKIdqIcyshnUULC4vex8="
 fontawesome:
-  version: "6.4.0"
-  integrity: "sha384-dFhS7XcG5qh8nX2Mx9N1K61N8BjKjz8f5RyM8DdUAlG3I4BKV1K6G6sXpshd5t6e"
+  version: "6.6.0"
+  integrity: "sha384-h/hnnw1Bi4nbpD6kE7nYfCXzovi622sY5WBxww8ARKwpdLj5kUWjRuyiXaD1U2JT"
 jquery:
   version: "3.6.0"
   integrity: "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
