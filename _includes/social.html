@@ -85,3 +85,6 @@
             {% if site.mastodon_username -%}
             <a href="https://fediscience.org/@{{ site.mastodon_username }}" title="Mastodon"><i class="fab fa-mastodon"></i></a>
             {% endif %}
+	    {% if site.bluesky %}
+	    <a href="https://bsky.app/profile/{{ site.bluesky }}.bsky.social" target="_blank" title="Bluesky"><i class="fa-brands fa-bluesky"></i></a>
+	    {% endif %}
