@@ -21,13 +21,12 @@ jobs:
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: '3.0.2'
-        bundler-cache: false  # Disable cache to prevent conflicts
+        bundler-cache: false  # Disable cache to avoid conflicts
 
-    - name: Update Bundler and Install Dependencies
+    - name: Install and update Bundler properly
       run: |
-        gem install bundler
-        bundle update --bundler
-        bundle install
+        gem install bundler -v 2.5.23 # Install the correct version
+        bundle install --jobs 4 --retry 3  # Install dependencies properly
 
     - name: Install deps
       run: |
