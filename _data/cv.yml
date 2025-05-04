@@ -72,7 +72,10 @@
 - title: Fellowships, Grants & Awards
   type: time_table
   contents:
-    - year: 2021-present
+    - year: 2025
+      items:
+        - <a href="https://drive.google.com/file/d/1a0vjV4rzHip5GQF1a2OTyfecRbjm_row/view?usp=sharing">Trainee Speaker Award</a> at <a href="https://sonasfn.org/data/uploads/meetings/2025/SONA_2025_program.pdf">SONA2025</a> (Southern Ontario Neuroscience Association conference) at Western University, London Ontario, Canada
+    - year: 2021-present 
       items:
         - Tier I <a href="https://brainscan.uwo.ca/">BrainsCAN Postdoctoral Fellowship</a>, Western University (London ON, Canada)
         - "Amount (5y): <b>∼389.000 CAD</b>"
