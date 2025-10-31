@@ -27,6 +27,8 @@ social: true  # includes social icons at the bottom of the page
 <br /> 
 <p style="padding: 0em 0 0 0;" align="justify">
 I am a Neuroscientist with a background in Engineering Physics. My research focuses on the application of <i>functional Magnetic Resonance Imaging</i> (fMRI) and statistical techniques to map the neurocognitive mechanisms in the human brain involved in higher-order cognition.
+
+I am a Cognitive Neuroscientist with a background in Engineering Physics. My research combines brain imaging, computational modeling, and data-driven analysis to understand how complex mental functions are represented in the human brain. Alongside these scientific questions, I develop methods for functional atlasing, creating individualized maps of brain function that link neural activity to behavior across tasks and people. I have explored many psychological domains, including music paradigms to study creativity, improvisation, motor preparation and timing. More broadly, my work aims to build bridges between cognitive neuroscience, data science, and open research practices to advance reproducible and personalized brain mapping.
 </p>
 
 <!-- <div class="col-25 p-0"> -->
