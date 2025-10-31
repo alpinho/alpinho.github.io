@@ -26,7 +26,7 @@ social: true  # includes social icons at the bottom of the page
 <br /> 
 <br /> 
 <p style="padding: 0em 0 0 0;" align="justify">
-I am a Cognitive Neuroscientist with a background in Engineering Physics. My research combines <i>functional Magnetic Resonance Imaging</i> (fMRI), computational modeling, and statistical analysis to investigate repressentations of complex behavior in the human brain. I develop atlasing techniques to map the spatial organization of cognitive functions in the brain and how it varies across individuals. I have explored many psychological domains, including musical paradigms to study creativity, improvisation, motor preparation, and timing. Overall, my work builds bridges between cognitive neuroscience, data science, machine learning and open research practices to advance reproducible and personalized brain mapping.
+I am a Cognitive Neuroscientist with a background in Engineering Physics. My research combines <i>functional Magnetic Resonance Imaging</i> (fMRI), computational modeling, and statistical analysis to investigate representations of complex behavior in the human brain. I develop atlasing techniques to map the spatial organization of cognitive functions in the brain and how it varies across individuals. I have explored many psychological domains, including the implementation of musical paradigms to study creativity, improvisation, motor preparation, and timing. Overall, my work builds bridges between cognitive neuroscience, data science, machine learning and open research practices to advance reproducible and personalized brain mapping.
 </p>
 
 <!-- <div class="col-25 p-0"> -->
