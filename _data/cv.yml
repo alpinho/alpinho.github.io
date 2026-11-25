@@ -45,13 +45,18 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Affiliated Researcher
+      institution: <a href="https://www.uwo.ca">University of Western Ontario</a>, London ON, Canada
+      year: 2026-present
     - title: <a href="https://brainscan.uwo.ca/research/brainscan_fellows.html">BrainsCAN Tier I Postdoctoral Fellow</a>
       institution: <a href="https://www.uwo.ca">University of Western Ontario</a>, London ON, Canada
-      year: 2021-present
+      year: 2021-2026
       description:
-        - My main project in this fellowship pertains to the functional mapping of the cortico-basal ganglia-cerebellar circuitry involved in the cognitive ability of forming temporal predictions during rhythmic and non-rhythmic sequences of events.
+        - title: My main project in this fellowship pertains to the functional mapping of the cortico-basal ganglia-cerebellar circuitry involved in the cognitive ability of forming temporal predictions during rhythmic and non-rhythmic sequences of events.
+          contents:
+            - See the preprint <a href="https://doi.org/10.64898/2026.11.21.768330">Pinho <i>et al.</i> (2026)</a>.
         - I am also interested on the development of encoding models of cognitive tasks as means to improve functional specificity in neuroimaging and, to this end, I am studying how to combine task-fMRI data across different datasets that will allow us to improve specificity of the statistical results relative to elementary cognitive components that modulate behaviour. Concretely, I am now working on the development of individualized encoding models, suitable to be used in a fusion framework of fMRI datasets. The main goal is to perform individual parcellations on functional maps of the human brain by systematically account for inter-subject variability, through integration of group-level parcels with individual data and using a hierarchical Bayesian parcellation scheme.
-        - title: Faculty Advisor and Collaborator
+        - title: Faculty Advisors
           contents:
             - <a href="https://www.jessicagrahn.com">Jessica Grahn</a>
             - <a href="http://www.diedrichsenlab.org">Jörn Diedrichsen</a>
@@ -65,7 +70,7 @@
         - title: Because many fMRI studies are limited to one single task and only report group-average brain maps that hinder effect specificity and a fine demarcation of brain regions, I also developed an individual-functional-atlasing approach to link functional segregation of specialized brain regions to elementary mental functions, by leveraging the IBC dataset.
           contents:
             - See <a href="https://doi.org/10.1002/hbm.25189">Pinho <i>et al.</i> (2021)</a>.
-        - title: Advisor
+        - title: Supervisor
           contents:
             - <a href="https://pages.saclay.inria.fr/bertrand.thirion">Bertrand Thirion</a>
 

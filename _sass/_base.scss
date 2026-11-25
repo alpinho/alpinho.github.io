@@ -121,6 +121,23 @@ blockquote {
   }
 }
 
+// News: keep each date on a single line
+.news table th {
+  white-space: nowrap;
+}
+
+// About page: centre the bio vertically next to the profile photo
+@media (min-width: 576px) {
+  .about-intro {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    .profile { flex: 0 0 30%; }
+    .clearfix { flex: 1 1 auto; min-width: 0; }
+  }
+  .about-intro.profile-left { flex-direction: row; }
+}
+
 .post-description {
   margin-bottom: 2rem;
   font-size: 0.875rem;

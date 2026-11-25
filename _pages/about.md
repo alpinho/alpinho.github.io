@@ -2,18 +2,19 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://brainscan.uwo.ca/'>BrainsCAN</a> Postdoctoral Fellow at <a href='http://www.jessicagrahn.com/'>The Music and Neuroscience Lab</a>, in collaboration with <a href='https://www.diedrichsenlab.org/'>Diedrichsenlab</a>.<br /><br />
+subtitle: Researcher at <a href='http://www.jessicagrahn.com/'>The Music and Neuroscience Lab</a>, in collaboration with <a href='https://www.diedrichsenlab.org/'>Diedrichsenlab</a>.<br /><br />
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: alp2026.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>WIRB, office #4130</p>
-    <p>Western Univ., Dock #76</p>
-    <p>1151 Richmond St N</p>
-    <p>London, Ontario</p>
-    <p>N6A 3K7, Canada</p>
+  # Former office address (hidden while changing jobs); update with the new address and uncomment:
+  # address: >
+  #   <p>WIRB, office #4130</p>
+  #   <p>Western Univ., Dock #76</p>
+  #   <p>1151 Richmond St N</p>
+  #   <p>London, Ontario</p>
+  #   <p>N6A 3K7, Canada</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -21,10 +22,12 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 <!--(top, right, bottom, left)!-->
+<!-- Line breaks that pushed the bio down next to the photo:
 <br /> 
 <br /> 
 <br /> 
 <br /> 
+-->
 <p style="padding: 0em 0 0 0;" align="justify">
 I am a Cognitive Neuroscientist with a background in Engineering Physics. My research combines <i>functional Magnetic Resonance Imaging</i> (fMRI), computational modeling, and statistical analysis to investigate representations of complex behavior in the human brain. I develop atlasing techniques to map the spatial organization of cognitive functions in the brain and how it varies across individuals. I have explored many psychological domains, including the implementation of musical paradigms to study creativity, improvisation, motor preparation, and timing. Overall, my work builds bridges between cognitive neuroscience, data science, machine learning and open-research practices to advance reproducible and personalized brain mapping.
 </p>

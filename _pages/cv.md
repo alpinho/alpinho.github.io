@@ -5,5 +5,5 @@ title: Curriculum Vitae
 nav: true
 nav_order: 4
 cv1_pdf: cv_analupinho_long.pdf
-cv2_pdf: cv_analupinho_short.pdf
+# cv2_pdf: cv_analupinho_short.pdf  # short CV link hidden; PDF kept in assets/pdf
 ---
