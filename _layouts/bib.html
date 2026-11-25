@@ -106,9 +106,24 @@
           </div>
 
           <!-- Journal/Book title and date -->
-          {% assign proceedings = "inproceedings, incollection" | split: ','%}
+          {% assign proceedings = "inproceedings,incollection" | split: ','%}
           {% if entry.type == "article" -%}
             {%- capture entrytype -%}<em>{{entry.journal}}</em>{%- endcapture -%}
+          {%- elsif entry.type == "incollection" -%}
+            {%- comment -%} Book chapter: book title, editors, pages and publisher {%- endcomment -%}
+            {%- capture entrytype -%}
+              <em>In {{entry.booktitle}}</em>
+              {%- if entry.editor_array -%}
+                {%- assign n_editors = entry.editor_array | size -%}
+                {{ " " }}(ed{% if n_editors > 1 %}s{% endif %}.{{ " " }}
+                {%- for ed in entry.editor_array -%}
+                  {%- if forloop.first == false -%}{%- if forloop.last -%}{{ " & " }}{%- else -%}, {% endif -%}{%- endif -%}
+                  {{ ed.last }}
+                {%- endfor -%})
+              {%- endif -%}
+              {%- if entry.pages -%}, pp. {{ entry.pages | replace: "--", "–" }}{%- endif -%}
+              {%- if entry.publisher -%}. {{ entry.publisher }}{%- endif -%},
+            {%- endcapture -%}
           {%- elsif proceedings contains entry.type -%}
             {%- capture entrytype -%}<em>In {{entry.booktitle}}</em> {%- endcapture -%}
           {%- else -%}
